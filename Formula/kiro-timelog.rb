@@ -1,8 +1,8 @@
 class KiroTimelog < Formula
   desc "Automatic time tracking for AI coding assistants (Kiro CLI + Claude Code)"
-  homepage "https://github.com/mvn-bachhuynh-dn/kiro-timelog"
-  url "https://github.com/mvn-bachhuynh-dn/kiro-timelog/archive/refs/heads/main.tar.gz"
-  sha256 "9aa90f04c03bfaea57362981afe228699c90b4e2033a2f22f6a943646563f11d"
+  homepage "https://github.com/mvn-bachhuynh-dn/ailog"
+  url "https://github.com/mvn-bachhuynh-dn/ailog/archive/refs/heads/main.tar.gz"
+  sha256 "897dcce48dae2b2ddf97a6a70e657bf70efe85ee74314be3cbc67acb2345f561"
   license "MIT"
   version "1.0.0"
 
