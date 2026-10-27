@@ -1,8 +1,8 @@
 # Source of Casks/mudo.rb in https://github.com/mvn-bachhuynh-dn/homebrew-tap.
 # The release workflow sets version and sha256 and pushes it there; edit the cask here.
 cask "mudo" do
-  version "0.11.0"
-  sha256 "3258fd35f52280b86ff7eba98c2986e00ee197b1eaba522625a5b00372be30b9"
+  version "0.11.1"
+  sha256 "e9d8a7a5c65ad6c7df2818dcd6efbbead98b289a4cedb8b228dfbe7d5f7c3c71"
 
   url "https://github.com/mvn-bachhuynh-dn/mudo/releases/download/v#{version}/MuDo-macos-arm64.zip"
   name "MuDo"
